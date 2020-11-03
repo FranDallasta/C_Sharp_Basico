@@ -1,0 +1,14 @@
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\AppEjercicios\bin\Debug\AppEjercicios.exe.config
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\AppEjercicios\bin\Debug\AppEjercicios.exe
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\AppEjercicios\bin\Debug\AppEjercicios.pdb
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\AppEjercicios\obj\Debug\AppEjercicios.csprojAssemblyReference.cache
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\AppEjercicios\obj\Debug\AppEjercicios.Form1.resources
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\AppEjercicios\obj\Debug\AppEjercicios.Properties.Resources.resources
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\AppEjercicios\obj\Debug\AppEjercicios.csproj.GenerateResource.cache
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\AppEjercicios\obj\Debug\AppEjercicios.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\AppEjercicios\obj\Debug\AppEjercicios.exe
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\AppEjercicios\obj\Debug\AppEjercicios.pdb
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\AppEjercicios\obj\Debug\AppEjercicios.csproj.CopyComplete
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\AppEjercicios\bin\Debug\nunit.framework.dll
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\AppEjercicios\bin\Debug\nunit.framework.pdb
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\AppEjercicios\bin\Debug\nunit.framework.xml

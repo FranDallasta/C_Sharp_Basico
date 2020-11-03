@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pkQ1vKKxeWttAG1tJomdvgV3STyDFl1EiMfsK3SDriM0Ag6MGboRYHvH7s+GwpWSSnSgrsjwwGVl+hKoHkRWdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Franco\\Documents\\Accademy Accenture\\2) Clases de Introducción a la Programación con C# .NET\\Ejercicios de C#\\EjerciciosIniciales\\Ejercicios\\Ejercicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Franco\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Franco\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

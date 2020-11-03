@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ejercicios": {
+      "commandName": "Project",
+      "remoteDebugEnabled": true
+    }
+  }
+}

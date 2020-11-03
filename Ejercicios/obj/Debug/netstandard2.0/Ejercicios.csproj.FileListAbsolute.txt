@@ -1,0 +1,9 @@
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\Ejercicios\bin\Debug\netstandard2.0\Ejercicios.deps.json
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\Ejercicios\bin\Debug\netstandard2.0\Ejercicios.dll
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\Ejercicios\bin\Debug\netstandard2.0\Ejercicios.pdb
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\Ejercicios\obj\Debug\netstandard2.0\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\Ejercicios\obj\Debug\netstandard2.0\Ejercicios.AssemblyInfo.cs
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\Ejercicios\obj\Debug\netstandard2.0\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\Ejercicios\obj\Debug\netstandard2.0\Ejercicios.dll
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\Ejercicios\obj\Debug\netstandard2.0\Ejercicios.pdb
+C:\Users\Franco\Documents\Accademy Accenture\2) Clases de Introducción a la Programación con C# .NET\Ejercicios de C#\EjerciciosIniciales\Ejercicios\obj\Debug\netstandard2.0\Ejercicios.csprojAssemblyReference.cache
